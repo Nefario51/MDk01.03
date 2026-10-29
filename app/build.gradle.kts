@@ -10,7 +10,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.anokhin"
+        applicationId = "com.example.pr1"
         minSdk = 33
         targetSdk = 37
         versionCode = 1
